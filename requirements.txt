@@ -1,0 +1,9 @@
+langchain
+pandas
+PyMuPDF
+datasets
+transformers 
+sentence-transformers 
+faiss-cpu 
+huggingface_hub
+rank_bm25
